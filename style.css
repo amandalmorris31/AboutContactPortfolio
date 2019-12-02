@@ -1,13 +1,20 @@
 .jumbotron {
-	background-color: #428bca
+	background-color: #ffffff;
 }
 
 .jumbotron h1 {
-	color:white;
+	color: #4aaaa5;
 }
 
-p, h1, h4 {
-	font-family: 'Roboto Slab', serif;
+h1, h4 {
+	font-family: 'Georgia', Times, 'Times New Roman', serif;
+	color: #4aaaa5;
+}
+
+p {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	color: #777777;
+	
 }
 
 #funText {
