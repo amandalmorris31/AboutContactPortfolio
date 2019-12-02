@@ -36,12 +36,6 @@ p {
 	font-family: 'Roboto Slab', serif;
 }
 
-#box {
-	height: 100px;
-	width: 100px;
-	margin:auto;
-}
-
 .footer {
 	height: 50px;
 	border-top: 8px solid #4aaaa5;
