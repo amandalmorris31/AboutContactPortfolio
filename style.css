@@ -41,7 +41,11 @@ p {
   /* But also accounting for potential margin-bottom of last child */
   margin-bottom: -50px;
 }
-.footer,
+.footer {
+	height: 50px;
+	border-top: 8px solid #4aaaa5;
+}
+
 .push {
   height: 50px;
 }
